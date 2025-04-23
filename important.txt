@@ -15,3 +15,8 @@ selector {declaration; declaration;...}
 Here declaration consists of property-value pair in the form property:value
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+CSS Selectors
+
+CSS selectors are used to "find" (or select) the HTML elements you want to style
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
