@@ -39,4 +39,11 @@ Types of CSS Selectors:
             color: red;
         }
 
+(d). Universal Selector
+    universal selector (*) selects all HTML elements on the page
+    Ex: * {
+            text-align: center;
+            color: blue;
+        }
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
