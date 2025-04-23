@@ -7,3 +7,11 @@ CSS saves a lot of work. It can control the layout of multiple web pages all at 
 External stylesheets are stored in CSS files
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+CSS Syntax
+
+A CSS rule consists of a selector and a declaration block
+selector {declaration; declaration;...}
+
+Here declaration consists of property-value pair in the form property:value
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
