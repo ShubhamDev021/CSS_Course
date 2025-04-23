@@ -74,3 +74,8 @@ Methods to add CSS
     Ex: <p style="color:red;">This is a paragraph.</p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+Cascading Order to follow if multiple CSS are applied
+
+Priority varies as Inline CSS > (Internal CSS or External CSS based on their order)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
