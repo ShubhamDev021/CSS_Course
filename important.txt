@@ -79,3 +79,17 @@ Cascading Order to follow if multiple CSS are applied
 Priority varies as Inline CSS > (Internal CSS or External CSS based on their order)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+CSS Comments
+
+CSS comments are not displayed in the browser, but they can help document your source code
+
+Types of comments:
+(a). Single line comments
+    Ex: /* This is a single-line comment */
+
+(b). Multi line comments
+    Ex: /* This is
+        a multi-line
+        comment */
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
