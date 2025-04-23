@@ -26,4 +26,10 @@ Types of CSS Selectors:
             text-align: center;
         }
 
+(b). id selector
+    id selector uses the id attribute of an HTML element to select a specific element
+    Ex: #para1 {
+            color: red;
+        }
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
