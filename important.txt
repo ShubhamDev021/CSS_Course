@@ -46,4 +46,11 @@ Types of CSS Selectors:
             color: blue;
         }
 
+(e). Grouping Selector
+    grouping selector selects all the HTML elements with the same style definitions
+    Ex: h1, h2, p {
+            text-align: center;
+            color: red;
+        }
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
