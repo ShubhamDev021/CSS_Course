@@ -65,4 +65,8 @@ Methods to add CSS
             }
         </style>
 
+(b). External CSS
+    External CSS can be added using <link> element, inside the head section.
+    Ex: <link rel="stylesheet" href="css/style.css">
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
