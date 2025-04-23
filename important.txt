@@ -32,4 +32,11 @@ Types of CSS Selectors:
             color: red;
         }
 
+(c). class selector
+    class selector selects HTML elements with a specific class attribute
+        .center {
+            text-align: center;
+            color: red;
+        }
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
